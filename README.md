@@ -2,4 +2,4 @@
 
 Simple CRUD Application using Java.
 
-Create/Read/Update/Delete from backend
+Create/Read/Update/Delete from MYSQL Server
